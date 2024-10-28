@@ -6,5 +6,5 @@
 	Azaz Bin Sharif, Md Tamzid Hasan, Md. Habib Naziat, Tahmina Zerin, and Satyajit Kundu (2023): Permanent, long-acting, and short-acting reversible contraceptive methods use among women in Bangladesh: An analysis of Bangladesh Demographic and Health Survey 2017-2018 data. BMJ Open 2023;13(7):e073469. doi:10.1136/ bmjopen- 2023-073469. 
 
 	Md Jakaria Rahimi, Md Tamzid Hasan, Ripan Kumar Dhar, Md Shaheer Ibne Islam, Khatune Jannat Siddiqua, and Shahriar Azgar (2011): Performance Analysis of Boost Inverter for Photovoltaic System. IJETSE International Journal of Emerging Technologies in Science and Engineering, Vol.5, No.2, Dec 2011. 
-![image](https://github.com/user-attachments/assets/6953ffc4-09ee-4e59-a1dd-44aa0b83d355)
+
 
